@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<h2>2021</h2>
+<b>Faster Mutation Analysis with Fewer Processes and Smaller Overheads</b><br>
+Bo Wang*, <b>Sirui Lu*</b>, Yingfei Xiong, Feng Liu</br>
+<i>ASE'21: 36th IEEE/ACM International Conference on Automated Software Engineering</i><br>
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<br>
+* equal contribution
