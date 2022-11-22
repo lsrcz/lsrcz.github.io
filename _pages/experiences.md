@@ -5,8 +5,6 @@ permalink: /experiences/
 author_profile: true
 ---
 
-<h1>Experiences</h1>
-
 <h2>Education</h2>
 <ul>
   <li>University of Washington, Seattle</li>
