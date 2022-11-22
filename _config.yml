@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sirui Lu (卢思睿)"
+title                    : "Sirui Lu"
 title_separator          : "-"
 name                     : &name "Sirui Lu"
 description              : &description "Ph.D. student at University of Washington"
