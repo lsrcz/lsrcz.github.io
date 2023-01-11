@@ -9,7 +9,7 @@ author_profile: true
 <b>Grisette: Symbolic Compilation as a Functional Programming Library (To appear)</b><br>
 Sirui Lu, Rastislav Bodik<br>
 <i>POPL'23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</i><br>
-<a href="/files/POPL23.pdf">[PDF]</a>
+<a href="/files/POPL23.pdf">[PDF]</a><a href="https://doi.org/10.1145/3571209">[DOI]</a><br>
 
 <h2>2021</h2>
 <b>Faster Mutation Analysis with Fewer Processes and Smaller Overheads</b><br>
