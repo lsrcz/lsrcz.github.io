@@ -30,4 +30,4 @@ Bo Wang, <b>Sirui Lu</b>, Jiajun Jiang, Yingfei Xiong<br>
 <a href="/files/JOS20.pdf">[PDF]</a><a href="http://www.jos.org.cn/html/2020/6/6014.htm">[JOS]</a><br>
 
 <br>
-* equal contribution
+\* equal contribution
