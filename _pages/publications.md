@@ -10,12 +10,18 @@ author_profile: true
 Jai Arora, <b>Sirui Lu</b>, Devansh Jain, Tianfan Xu, Farzin Houshmand, Phitchaya Mangpo Phothilimthana, Mohsen Lesani, Praveen Narayanan, Karthik Srinivasa Murthy, Rastislav Bodik, Amit Sabne, Charith Mendis<br>
 <i>POPL'25: 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</i><br>
 <a href="/files/POPL25.pdf">[PDF]</a>
+<a href="https://github.com/ADAPT-uiuc/TensorRight">[Code]</a>
+<br>
 
 <h2>2023</h2>
 <b>Grisette: Symbolic Compilation as a Functional Programming Library</b><br>
 <b>Sirui Lu</b>, Rastislav Bodik<br>
 <i>POPL'23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</i><br>
-<a href="/files/POPL23.pdf">[PDF]</a><a href="https://doi.org/10.1145/3571209">[DOI]</a><a href="/files/POPL23Slides.pdf">[Slides]</a><br>
+<a href="/files/POPL23.pdf">[PDF]</a>
+<a href="https://doi.org/10.1145/3571209">[DOI]</a>
+<a href="/files/POPL23Slides.pdf">[Slides]</a>
+<a href="https://github.com/lsrcz/grisette">[Code]</a>
+<br>
 
 <h2>2021</h2>
 <b>Faster Mutation Analysis with Fewer Processes and Smaller Overheads</b><br>
