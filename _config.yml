@@ -192,6 +192,10 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: "grisette"
+    values:
+      permalink: /grisette
   # _posts
   - scope:
       path: ""
