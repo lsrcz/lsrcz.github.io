@@ -21,6 +21,8 @@ Jai Arora, <b>Sirui Lu</b>, Devansh Jain, Tianfan Xu, Farzin Houshmand, Phitchay
 <a href="https://doi.org/10.1145/3571209">[DOI]</a>
 <a href="/files/POPL23Slides.pdf">[Slides]</a>
 <a href="https://github.com/lsrcz/grisette">[Code]</a>
+<a href="https://hackage.haskell.org/package/grisette">[Hackage]</a>
+<a href="/grisette">[Documentation (Head version)]</a>
 <br>
 
 <h2>2021</h2>
