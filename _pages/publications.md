@@ -10,7 +10,7 @@ author_profile: true
 Jai Arora, <b>Sirui Lu</b>, Devansh Jain, Tianfan Xu, Farzin Houshmand, Phitchaya Mangpo Phothilimthana, Mohsen Lesani, Praveen Narayanan, Karthik Srinivasa Murthy, Rastislav Bodik, Amit Sabne, Charith Mendis<br>
 <i>POPL'25: 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</i><br>
 <a href="/files/POPL25.pdf">[PDF]</a>
-<a href="https://github.com/ADAPT-uiuc/TensorRight">[Code]</a>
+<a href="https://github.com/ADAPT-uiuc/TensorRight">[GitHub]</a>
 <br>
 
 <h2>2023</h2>
@@ -20,7 +20,7 @@ Jai Arora, <b>Sirui Lu</b>, Devansh Jain, Tianfan Xu, Farzin Houshmand, Phitchay
 <a href="/files/POPL23.pdf">[PDF]</a>
 <a href="https://doi.org/10.1145/3571209">[DOI]</a>
 <a href="/files/POPL23Slides.pdf">[Slides]</a>
-<a href="https://github.com/lsrcz/grisette">[Code]</a>
+<a href="https://github.com/lsrcz/grisette">[GitHub]</a>
 <a href="https://hackage.haskell.org/package/grisette">[Hackage]</a>
 <a href="/grisette">[Documentation (Head version)]</a>
 <br>
