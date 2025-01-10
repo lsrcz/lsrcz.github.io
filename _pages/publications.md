@@ -10,6 +10,7 @@ author_profile: true
 Jai Arora, <b>Sirui Lu</b>, Devansh Jain, Tianfan Xu, Farzin Houshmand, Phitchaya Mangpo Phothilimthana, Mohsen Lesani, Praveen Narayanan, Karthik Srinivasa Murthy, Rastislav Bodik, Amit Sabne, Charith Mendis<br>
 <i>POPL'25: 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</i><br>
 <a href="/files/POPL25.pdf">[PDF]</a>
+<a href="https://https://doi.org/10.1145/3704865">[DOI]</a>
 <a href="https://github.com/ADAPT-uiuc/TensorRight">[GitHub]</a>
 <br>
 
