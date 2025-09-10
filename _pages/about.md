@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a fifth year Ph.D. student in the [PLSE](https://uwplse.org/) group at the University of Washington. I am privileged to be advised by [Rastislav Bodik](https://homes.cs.washington.edu/~bodik/).
-- Prior to joining UW, I did my undergraduate at Peking University. I was very fortunate to be advised by and work with Professor [Yingfei Xiong](https://xiongyingfei.github.io/) on software engineering.
-- My research interests lie in the general area of programming languages, particularly program synthesis and formal verification.
-- My name written in Chinese is 卢思睿. It is pronounced as /lu˨˥/ /sɹ̩˥/ /ʐwei̯˥˨/.
+- I am a Member of Technical Staff at OpenAI, working at the intersection of AI and formal methods.
+- I received my Ph.D. from the [PLSE](https://uwplse.org/) group at the University of Washington. I am privileged to be advised by [Rastislav Bodík](https://homes.cs.washington.edu/~bodik/). My research lies in programming languages, with a focus on program synthesis and formal verification.
+- Before UW, I completed my undergraduate studies at Peking University, where I worked with [Yingfei Xiong](https://xiongyingfei.github.io/) on software engineering.
+- My name in Chinese is 卢思睿 (Pinyin: Lú Sīruì; IPA: [lu˧˥ si˥ ɻweɪ˥˩]).
