@@ -6,18 +6,26 @@ author_profile: true
 ---
 
 <h2>2025</h2>
-<b>TensorRight: Automated Verification of Tensor Graph Rewrites (To appear)</b><br>
+<b>HieraSynth: A Parallel Framework for Complete
+Super-Optimization with Hierarchical Space Decomposition</b><br>
+<b>Sirui Lu</b>, Rastislav Bodik<br>
+<em>OOPSLA'25: Proc. ACM Program. Lang. (OOPSLA ’25)</em> (to appear)<br>
+<a href="/files/OOPSLA25.pdf">[PDF]</a>
+<a href="https://github.com/lsrcz/HieraSynth_OOPSLA25_Artifact">[GitHub]</a>
+<br>
+
+<b>TensorRight: Automated Verification of Tensor Graph Rewrites</b><br>
 Jai Arora, <b>Sirui Lu</b>, Devansh Jain, Tianfan Xu, Farzin Houshmand, Phitchaya Mangpo Phothilimthana, Mohsen Lesani, Praveen Narayanan, Karthik Srinivasa Murthy, Rastislav Bodik, Amit Sabne, Charith Mendis<br>
-<i>POPL'25: 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</i> <b>🏆Distinguished Paper</b><br>
+<em>POPL'25: 52nd ACM SIGPLAN Symposium on Principles of Programming Languages</em> <b>🏆Distinguished Paper</b><br>
 <a href="/files/POPL25.pdf">[PDF]</a>
-<a href="https://https://doi.org/10.1145/3704865">[DOI]</a>
+<a href="https://doi.org/10.1145/3704865">[DOI]</a>
 <a href="https://github.com/ADAPT-uiuc/TensorRight">[GitHub]</a>
 <br>
 
 <h2>2023</h2>
 <b>Grisette: Symbolic Compilation as a Functional Programming Library</b><br>
 <b>Sirui Lu</b>, Rastislav Bodik<br>
-<i>POPL'23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</i><br>
+<em>POPL'23: 50th ACM SIGPLAN Symposium on Principles of Programming Languages</em><br>
 <a href="/files/POPL23.pdf">[PDF]</a>
 <a href="https://doi.org/10.1145/3571209">[DOI]</a>
 <a href="/files/POPL23Slides.pdf">[Slides]</a>
